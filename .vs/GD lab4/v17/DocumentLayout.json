@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\studies\\heavy-projects\\GD\\GD lab4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|c:\\studies\\heavy-projects\\gd\\gd lab4\\assets\\scripts\\ai_enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ai_enemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|c:\\studies\\heavy-projects\\gd\\gd lab4\\assets\\scripts\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playershooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|c:\\studies\\heavy-projects\\gd\\gd lab4\\assets\\scripts\\healthrestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\healthrestore.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|c:\\studies\\heavy-projects\\gd\\gd lab4\\assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A7A30C47-34FB-C3B1-B499-C54D8F7AF744}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerShooter.cs",
+              "DocumentMoniker": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerShooter.cs",
+              "ToolTip": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\PlayerShooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerShooter.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAC8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:13:31.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AI_Enemy.cs",
+              "DocumentMoniker": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\AI_Enemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\AI_Enemy.cs",
+              "ToolTip": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\AI_Enemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\AI_Enemy.cs",
+              "ViewState": "AQIAAPQAAAAAAAAAAAAcwPoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:13:08.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HealthRestore.cs",
+              "DocumentMoniker": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\HealthRestore.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\HealthRestore.cs",
+              "ToolTip": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\HealthRestore.cs",
+              "RelativeToolTip": "Assets\\Scripts\\HealthRestore.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:12:45.859Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PlayerHealth.cs",
+              "DocumentMoniker": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerHealth.cs",
+              "ToolTip": "C:\\studies\\heavy-projects\\GD\\GD lab4\\Assets\\Scripts\\PlayerHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerHealth.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-18T11:12:28Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
